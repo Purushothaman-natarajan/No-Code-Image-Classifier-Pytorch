@@ -6,10 +6,9 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-# Agro Insights - Develop your own Image Classifier
+# No-Code-Image-Classifier-Pytorch - Develop your own Image Classifier
 
-This project provides a no-code interface for developing image classification models using the Torch framework. 
-Use the `setup_and_run` script to set up and open the Gradio-based interface, which simplifies the process of developing and testing image classification models. If you prefer streamlit interface, navigate to `Image Classifer/streamlit interface`, use the `setup_and_run - streamlit` script to set up and open Streamlit-based interface.
+This project provides a no-code interface for developing image classification models using the Torch framework. Use the `setup_and_run` script to set up and open the Gradio-based interface, which simplifies the process of developing and testing image classification models. If you prefer streamlit interface, navigate to `Image Classifer/streamlit interface`, use the `setup_and_run - streamlit` script to set up and open Streamlit-based interface.
 
 ## Prerequisites
 
@@ -189,19 +188,16 @@ subprocess.run([
 ])
 ```
 
----
-
-
 ----
-[contributors-shield]: https://img.shields.io/github/contributors/Purushothaman-natarajan/No-Code-Image-Classifier.svg?style=flat-square
-[contributors-url]: https://github.com/Purushothaman-natarajan/No-Code-Image-Classifier/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Purushothaman-natarajan/No-Code-Image-Classifier.svg?style=flat-square
-[forks-url]: https://github.com/Purushothaman-natarajan/No-Code-Image-Classifier/network/members
-[stars-shield]: https://img.shields.io/github/stars/Purushothaman-natarajan/No-Code-Image-Classifier.svg?style=flat-square
-[stars-url]: https://github.com/Purushothaman-natarajan/No-Code-Image-Classifier/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Purushothaman-natarajan/No-Code-Image-Classifier.svg?style=flat-square
-[issues-url]: https://github.com/Purushothaman-natarajan/No-Code-Image-Classifier/issues
-[license-shield]: https://img.shields.io/github/license/Purushothaman-natarajan/No-Code-Image-Classifier.svg?style=flat-square
-[license-url]: https://github.com/Purushothaman-natarajan/No-Code-Image-Classifier/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Purushothaman-natarajan/No-Code-Image-Classifier-Pytorch.svg?style=flat-square
+[contributors-url]: https://github.com/Purushothaman-natarajan/No-Code-Image-Classifier-Pytorch/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Purushothaman-natarajan/No-Code-Image-Classifier-Pytorch.svg?style=flat-square
+[forks-url]: https://github.com/Purushothaman-natarajan/No-Code-Image-Classifier-Pytorch/network/members
+[stars-shield]: https://img.shields.io/github/stars/Purushothaman-natarajan/No-Code-Image-Classifier-Pytorch.svg?style=flat-square
+[stars-url]: https://github.com/Purushothaman-natarajan/No-Code-Image-Classifier-Pytorch/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Purushothaman-natarajan/No-Code-Image-Classifier-Pytorch.svg?style=flat-square
+[issues-url]: https://github.com/Purushothaman-natarajan/No-Code-Image-Classifier-Pytorch/issues
+[license-shield]: https://img.shields.io/github/license/Purushothaman-natarajan/No-Code-Image-Classifier-Pytorch.svg?style=flat-square
+[license-url]: https://github.com/Purushothaman-natarajan/No-Code-Image-Classifier-Pytorch/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/purushothamann/
