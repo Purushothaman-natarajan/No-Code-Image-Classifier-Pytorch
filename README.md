@@ -62,6 +62,20 @@ python data_loader.py --path <path_to_data> --target_folder <path_to_target_fold
 python data_loader.py --path "./data" --target_folder "./processed_data" --dim 224 --batch_size 32 --num_workers 4 --augment_data
 ```
 
+**Dataset Structure:**
+
+```sh
+├── Dataset (Raw)
+   ├── class_name_1
+   │   └── *.jpg
+   ├── class_name_2
+   │   └── *.jpg
+   ├── class_name_3
+   │   └── *.jpg
+   └── class_name_4
+       └── *.jpg
+```
+
 #### 2. `train.py`
 
 This script is used for training and storing the models leveraging transfer learning.
